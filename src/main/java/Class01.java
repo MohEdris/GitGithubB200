@@ -9,5 +9,8 @@ public class Class01 {
 
         // Version 3
         System.out.println("Version 3");
+
+        //
+        System.out.println("Version 4");
     }
 }
